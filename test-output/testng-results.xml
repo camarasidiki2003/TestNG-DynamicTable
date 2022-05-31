@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11545" started-at="2022-05-31T14:55:02 CDT" finished-at="2022-05-31T14:55:13 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11545" started-at="2022-05-31T14:55:02 CDT" finished-at="2022-05-31T14:55:13 CDT">
+      <class name="testNGHomeworkPackage.TestNGCustomerV2">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:testNGHomeworkPackage.TestNGCustomerV2@7f416310]" name="readConfig" is-config="true" duration-ms="6" started-at="2022-05-31T14:55:02 CDT" finished-at="2022-05-31T14:55:02 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:testNGHomeworkPackage.TestNGCustomerV2@7f416310]" name="init" is-config="true" duration-ms="2704" started-at="2022-05-31T14:55:02 CDT" finished-at="2022-05-31T14:55:04 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="myLogin()[pri:1, instance:testNGHomeworkPackage.TestNGCustomerV2@7f416310]" name="myLogin" duration-ms="722" started-at="2022-05-31T14:55:04 CDT" finished-at="2022-05-31T14:55:05 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myLogin -->
+        <test-method status="PASS" signature="init()[pri:0, instance:testNGHomeworkPackage.TestNGCustomerV2@7f416310]" name="init" is-config="true" duration-ms="1869" started-at="2022-05-31T14:55:05 CDT" finished-at="2022-05-31T14:55:07 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="d()[pri:2, instance:testNGHomeworkPackage.TestNGCustomerV2@7f416310]" name="d" duration-ms="6218" started-at="2022-05-31T14:55:07 CDT" finished-at="2022-05-31T14:55:13 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+      </class> <!-- testNGHomeworkPackage.TestNGCustomerV2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
